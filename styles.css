@@ -1,0 +1,65 @@
+body{
+    background-color: rgb(109, 109, 109);
+}
+
+.container {
+    background-color: white;
+    width: 600px;
+    height: auto;
+    
+}
+
+.dots{
+    font-size: 35px ;
+    text-align: end;
+    vertical-align: 0mm;
+}
+
+
+
+.fab{
+    height: 1px;
+}
+
+p {
+    margin-bottom: 0px;
+    margin-top: 0px;
+    font-size: 1em;
+    padding: 0px;
+   
+   
+}
+.html5{
+    font-size: 45px;
+    justify-content: center;
+}
+
+.icons{
+    font-size: 40px;
+    text-align: end;
+    padding: 15px
+}
+.header{
+    height: 80px;
+    margin: auto;
+}
+
+.comment{
+    padding: 15px;
+}
+
+.photo{
+     margin: auto;
+     width: 95%;
+}
+
+img{
+    width: 100%;
+  height: auto;;
+   
+}
+
+.col {
+    margin-top: 0%;
+    margin-bottom: 0%;
+}
